@@ -1,0 +1,20 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Couleur de fond -->
+    <solid android:color="#FFFFFF"/>
+
+    <!-- Bordure -->
+    <stroke
+        android:width="2dp"
+        android:color="#E0E0E0"/>
+    <style android:name="CircleImageView">
+        <item android:name="cornerSize">50%</item>
+    </style>
+
+
+    <!-- Taille du cercle -->
+    <size
+        android:width="100dp"
+        android:height="100dp"/>
+</shape>
