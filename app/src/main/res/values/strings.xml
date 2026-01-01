@@ -3,4 +3,16 @@
     <string name="login_title">Login</string>
     <string name="forgot_password">Forgot password ?</string>
     <string name="signup">Signup ?</string>
+    <string name="signup_title">Register\n</string>
+    <string name="signin">sign in ?</string>
+    <string name="firstname">Prénom</string>
+    <string name="lastname">Nom</string>
+    <string name="email">Email</string>
+    <string name="phone">Téléphone</string>
+    <string name="password">Mot de passe</string>
+
+    <string name="confirm_password">Confirmer le mot de passe</string>
+
+    <string name="already_have_account">Vous avez déjà un compte ?</string>
+
 </resources>
